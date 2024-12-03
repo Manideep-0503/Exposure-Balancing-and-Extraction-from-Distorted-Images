@@ -1,9 +1,9 @@
-# Exposure-Balancing-and-Extraction-from-Distorted-Images
+# Exposure-Balancing-and-Image-Extraction-from-skewed-Images
 
 ---
 
 #### **Project Title**
-Exposure Balancing and Extraction from Distorted Images
+Exposure Balancing and Image Extraction from skewed Images
 
 ---
 
@@ -74,7 +74,7 @@ The approach successfully corrected distortions and enhanced visibility, enablin
 #### **Contributions**
 - **Avunuri Manideep**: Research on Homography and User Interface (UI).
 - **Satyam Kumar**: Research on Homography, Exposure Methods, and Adaptive Gamma Correction.
-- **Damireddy Mohith Reddy**: Object extraction with the GrabCut algorithm.
+- **Damireddy Mohith Reddy**: Object extraction using GrabCut algorithm and Edge detection.
 - **Yash Raj**: Research on Exposure Methods, including Adaptive Gamma Correction, and UI.
 
 ---
