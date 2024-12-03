@@ -1,0 +1,6 @@
+streamlit==1.21.0
+opencv-python==4.7.0.72
+numpy==1.23.3
+Pillow==9.1.0
+matplotlib==3.7.1
+streamlit-drawable-canvas==0.3.0
