@@ -23,7 +23,7 @@ To run the Streamlit application locally, follow the steps below:
    git clone https://github.com/Manideep-0503/Exposure-Balancing-and-Extraction-from-Distorted-Images
 2.
    ```bash
-   cd your-repository-name
+   cd Exposure-Balancing-and-Extraction-from-Distorted-Images
 3.
    ```bash
    pip install -r requirements.txt
